@@ -1,27 +1,102 @@
-# JapaWithMe.com
+# 🕉️ Count Japa With Me
 
-Welcome to Japa With Me, your go-to platform for seamless and efficient counting solutions! Whether you're engaged in Japa counting, numerical counting, or need to track counts with time intervals, our website provides a user-friendly and versatile toolkit tailored to your needs.
+A simple JavaScript-based web application for digital Japa (mantra chanting) counting. This project helps users track their chanting sessions with an interactive mala counter, progress monitoring, audio feedback, and a clean user-friendly interface.
 
-# Overview
-Japa With Me is a website that allows users to perform various counting activities online. It's designed to cater to users engaging in Japa counting, numerical counting, or those who want to track counts with specific time intervals.
+## 🌐 Live Demo
 
-# Features
-1. Japa Counting: Effortlessly perform Japa counting online with our intuitive interface.
+🔗 https://atharvapatharkar.github.io/Count-Japa-With-Me/
 
-2. Numerical Counting: Need a simple numerical count? Use our platform for straightforward counting tasks.
+## 📂 GitHub Repository
 
-3. Time-Based Tracking: Set and track counts with specific time intervals to meet your goals effectively.
+🔗 https://github.com/AtharvaPatharkar/Count-Japa-With-Me
 
-4. User-Friendly Design: The website is built with a user-centric design for a hassle-free counting experience.
+## ✨ Features
 
-# Getting Started
-Visit the Japa With Me website and start counting with ease. No installation required!
+* Digital Japa Counter
+* Interactive Mala Bead Counting
+* Audio Feedback
+* Progress Tracking
+* Simple & Clean Interface
+* Responsive Design
+* Lightweight and Fast
+* Works Directly in Browser
+* No External Dependencies
 
-# Usage
-1. Open the website in your preferred browser.
-2. Choose the counting activity you want to perform.
-3. Follow the on-screen instructions to set your counting parameters.
-4. Enjoy a seamless counting experience!
+## 🛠️ Tech Stack
 
-# Contact
-Have questions or suggestions? Reach out to us at atharvapatharkar6@gmail.com.
+* HTML5
+* CSS3
+* JavaScript (Vanilla JS)
+
+## 📂 Project Structure
+
+```text
+Count-Japa-With-Me/
+│
+├── index.html
+├── styles.css
+├── main.js
+│
+├── background.mp3
+├── beep.mp3
+├── click.mp3
+├── mala.mp3
+│
+├── bead.png
+├── BoxMala.png
+├── settings.png
+├── OMbg.jpeg
+│
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/AtharvaPatharkar/Count-Japa-With-Me.git
+```
+
+### Run Locally
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+No installation or additional setup is required.
+
+## 🎯 Purpose
+
+The purpose of this project is to provide a simple digital solution for mantra chanting and Japa counting while maintaining an easy-to-use and distraction-free spiritual experience.
+
+## 📸 Screenshots
+
+Add screenshots here after uploading them to the repository.
+
+```text
+screenshots/home.png
+screenshots/counter.png
+```
+
+## 🔮 Future Improvements
+
+* Local Storage Support
+* Daily Japa Statistics
+* Session History
+* Multiple Themes
+* Mobile App Version
+* Data Backup Support
+
+## 👨‍💻 Author
+
+**Atharva Patharkar**
+
+GitHub: https://github.com/AtharvaPatharkar
+
+Portfolio: https://atharvapatharkar.github.io/Portfolio/
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
